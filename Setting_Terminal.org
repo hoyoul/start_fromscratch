@@ -1,0 +1,29 @@
+* Terminal & shell settings
+  #+begin_note
+  내가 원하는 terminal은 ls를 했을 때, 폴더와 파일을 구분해주기만 하면 된다.
+  icon으로 폴더를 보여주면 더 좋다.
+
+  내가 선택한 방식은 iterm2, zsh, colorls와 nerd font를 사용하기로 했다.
+  #+end_note
+** Iterm vs Hyper
+   #+begin_note
+   hyper보다는 iterm2가 인기도 많고 더 선호된다.
+   brew를 사용해서 iterm2를 설치하면 된다.
+   #+end_note
+** zsh
+   #+begin_note
+   brew를 사용해서 zsh을 설치한다.
+   #+end_note
+** colorls
+   #+begin_note
+   colorls는 다음 아래에 맞춰 설치하면 된다.
+   https://github.com/husnulhamidiah/colorls#custom-configurations
+   #+end_note
+** font
+   #+begin_note
+   폰트에서 이미지를 나타낼수 있는 font가 있다. ligarture라는 기능을 표시하는 폰트인데, 대표적으로
+   fira code font가 있다. 이런 기능을 가진 font들을 한데 모아놓은곳이 nerd font인데, colorls에서 사용하기
+   때문에 링크가 걸려있다. 참고로 아래에 link를 표시하면 다음과 같다.
+
+   https://github.com/ryanoasis/nerd-fonts/blob/master/readme.md
+   #+end_note
